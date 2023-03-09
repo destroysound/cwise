@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "cwise-parser": "^1.1.3",
+    "cwise-parser": "^1.0.3",
     "cwise-compiler": "^1.0.3",
     "static-module": "^3.0.0",
     "uglify-js": "^2.8.29"
